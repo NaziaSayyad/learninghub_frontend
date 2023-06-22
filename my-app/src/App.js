@@ -1,11 +1,11 @@
-import logo from './logo.svg';
-import './App.css';
-import { Button } from '@chakra-ui/react';
+import Headers from './Pages/Headers/headers';
+import Navbar from './components/Navbar/Navbar';
 
 function App() {
   return (
     <>
-    <Button> Hello </Button>
+      <Navbar />
+    {/* <Headers /> */}
     </>
   );
 }
