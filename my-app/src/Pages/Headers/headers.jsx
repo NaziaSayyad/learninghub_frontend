@@ -1,10 +1,13 @@
+import { Box, Heading } from '@chakra-ui/react'
 import React from 'react'
 
 function Headers() {
   return (
-    <div>
-      
-    </div>
+   <>
+   <Box>
+     <Heading> Welcome to Iqra Learning Hub: Your Gateway to Knowledge and Growth! </Heading>
+   </Box>
+   </>
   )
 }
 
