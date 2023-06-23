@@ -20,16 +20,31 @@ function Navbar() {
   }, []);
   return (
     <>
-     <Box bg="gray.800" py={4}>
+     <Box bg="#92229C" color= "black" py={4}>
       <Flex maxW="container.xl" mx="auto" px={4} alignItems="center">
-        <Link
+      <Link
           href="/"
-          fontSize="xl"
+          fontSize="xl  "
           fontWeight="bold"
           color="white"
-          _hover={{ color: 'gray.300' }}
+          _hover={{ color: 'black' }}
         >
-          Your Logo
+
+         <Image src='new-logo.png'
+         color='white'
+            w={'50px'}
+            mr={'1'}
+         />
+        </Link>
+        <Link
+          href="/"
+          fontSize="xl  "
+          fontWeight="bold"
+          color="white"
+          _hover={{ color: 'black' }}
+        >
+
+          Iqra Learning Hub 
         </Link>
         <Spacer />
         {isMobile ? (
@@ -56,8 +71,8 @@ function Navbar() {
                   href="/"
                   color="white"
                   display="block"
-                  my={2}
-                  _hover={{ color: 'gray.300' }}
+                  my={4}
+                  _hover={{ color: 'black' }}
                 >
                   Home
                 </Link>
@@ -65,26 +80,26 @@ function Navbar() {
                   href="/about"
                   color="white"
                   display="block"
-                  my={2}
-                  _hover={{ color: 'gray.300' }}
+                  my={4}
+                  _hover={{ color: 'black' }}
                 >
-                  About
+                  Courses 
                 </Link>
                 <Link
                   href="/services"
                   color="white"
                   display="block"
-                  my={2}
-                  _hover={{ color: 'gray.300' }}
+                  my={4}
+                  _hover={{ color: 'black' }}
                 >
-                  Services
+                  About 
                 </Link>
                 <Link
                   href="/contact"
                   color="white"
                   display="block"
-                  my={2}
-                  _hover={{ color: 'gray.300' }}
+                  my={4}
+                  _hover={{ color: 'black' }}
                 >
                   Contact
                 </Link>
@@ -97,7 +112,7 @@ function Navbar() {
               href="/"
               color="white"
               ml={4}
-              _hover={{ color: 'gray.300' }}
+              _hover={{ color: 'black' }}
             >
               Home
             </Link>
@@ -105,23 +120,23 @@ function Navbar() {
               href="/about"
               color="white"
               ml={4}
-              _hover={{ color: 'gray.300' }}
+              _hover={{ color: 'black' }}
             >
-              About
+             Courses 
             </Link>
             <Link
               href="/services"
               color="white"
               ml={4}
-              _hover={{ color: 'gray.300' }}
+              _hover={{ color: 'black' }}
             >
-              Services
+             About 
             </Link>
             <Link
               href="/contact"
               color="white"
               ml={4}
-              _hover={{ color: 'gray.300' }}
+              _hover={{ color: 'black' }}
             >
               Contact
             </Link>
@@ -129,26 +144,7 @@ function Navbar() {
         )}
       </Flex>
     </Box>
-{/*     
-    <Box border={'5px solid red'}>
-    <Flex>
-      <Image 
-     src ='logo.jpeg'
-     height='150px'
-     m={'2%'}
-     w={'200px'}
-     />
-     <Box justifyContent={'flex-start'}>
-          
-             <Button>  Home </Button>
-             <Button> Courses  </Button>
-             <Button>  About </Button>
-             <Button>  Contact</Button>
-          
-           
-     </Box>
-    </Flex>
-   </Box> */}
+
 
    </>
   )
