@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Box, Image } from '@chakra-ui/react';
+import { Box,  Image } from '@chakra-ui/react';
 import { useEffect } from 'react';
 
 const images = [
@@ -7,9 +7,6 @@ const images = [
     'slide-3.jpg',
     'slide-4.jpg',
     'slide-5.jpeg'
-//   'https://example.com/image1.jpg',
-//   'https://example.com/image2.jpg',
-//   'https://example.com/image3.jpg',
   // Add more image URLs here
 ];
 
@@ -33,7 +30,8 @@ const Slideshow = () => {
     };
   
     return (
-      <Box 
+     <>
+     <Box 
       maxWidth="600px"
       mx="auto" 
       position="relative"
@@ -59,14 +57,15 @@ const Slideshow = () => {
         ))}
         <Box display="flex" justifyContent="center" mt="4">
           <Box as="button" onClick={previousImage} mx="2" fontWeight="bold" fontSize="lg">
-            Previous
+            {" < "}
           </Box>
           <Box as="button" onClick={nextImage} mx="2" fontWeight="bold" fontSize="lg">
-            Next
+           {" > "}
           </Box>
         </Box>
       </Box>
+     
+     </> 
   );
 };
-
 export default Slideshow;

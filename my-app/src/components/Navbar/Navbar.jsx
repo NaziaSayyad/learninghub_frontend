@@ -2,6 +2,7 @@ import { Box, Button, Flex, IconButton, Image, Link, Spacer, useDisclosure } fro
 import React, { useState } from 'react'
 import { useEffect } from 'react';
 import {HamburgerIcon, CloseIcon} from "@chakra-ui/icons";
+// import {} from "react-router-dom";
 
 function Navbar() {
     const { isOpen, onOpen, onClose } = useDisclosure();
@@ -77,7 +78,7 @@ function Navbar() {
                   Home
                 </Link>
                 <Link
-                  href="/about"
+                  href="/courses"
                   color="white"
                   display="block"
                   my={4}
@@ -86,7 +87,7 @@ function Navbar() {
                   Courses 
                 </Link>
                 <Link
-                  href="/services"
+                  href="/about"
                   color="white"
                   display="block"
                   my={4}
@@ -117,7 +118,7 @@ function Navbar() {
               Home
             </Link>
             <Link
-              href="/about"
+              href="/courses"
               color="white"
               ml={4}
               _hover={{ color: 'black' }}
@@ -125,7 +126,7 @@ function Navbar() {
              Courses 
             </Link>
             <Link
-              href="/services"
+              href="/about"
               color="white"
               ml={4}
               _hover={{ color: 'black' }}
