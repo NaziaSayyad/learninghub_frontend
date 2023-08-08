@@ -2,6 +2,7 @@ import { Box, Button, Flex, IconButton, Image, Link, Spacer, useDisclosure } fro
 import React, { useState } from 'react'
 import { useEffect } from 'react';
 import {HamburgerIcon, CloseIcon} from "@chakra-ui/icons";
+
 // import {} from "react-router-dom";
 
 function Navbar() {
@@ -150,5 +151,9 @@ function Navbar() {
    </>
   )
 }
+
+// It h jh hjhj hkj kh kjhu jh
+
+// jhj jhg kjj kjhk kj hkj kjkj  
 
 export default Navbar
