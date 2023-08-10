@@ -155,5 +155,25 @@ function Navbar() {
 // It h jh hjhj hkj kh kjhu jh
 
 // jhj jhg kjj kjhk kj hkj kjkj  
+/*  
+  sometime i don't understand what should i do what not .. kuch log esse hote hain jo apko confuse kr dete hain
+  smjh hi nhi aata ki kyaa kahun mein unse .. 
+
+*/
+/*  
+  sometime i don't understand what should i do what not .. kuch log esse hote hain jo apko confuse kr dete hain
+  smjh hi nhi aata ki kyaa kahun mein unse .. 
+
+*/
+/*  
+  sometime i don't understand what should i do what not .. kuch log esse hote hain jo apko confuse kr dete hain
+  smjh hi nhi aata ki kyaa kahun mein unse .. 
+
+*/
+/*  
+  sometime i don't understand what should i do what not .. kuch log esse hote hain jo apko confuse kr dete hain
+  smjh hi nhi aata ki kyaa kahun mein unse .. 
+
+*/
 
 export default Navbar
