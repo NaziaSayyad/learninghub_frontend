@@ -176,4 +176,39 @@ function Navbar() {
 
 */
 
+/*  
+  sometime i don't understand what should i do what not .. kuch log esse hote hain jo apko confuse kr dete hain
+  smjh hi nhi aata ki kyaa kahun mein unse .. 
+
+*/
+/*  
+  sometime i don't understand what should i do what not .. kuch log esse hote hain jo apko confuse kr dete hain
+  smjh hi nhi aata ki kyaa kahun mein unse .. 
+
+*/
+/*  
+  sometime i don't understand what should i do what not .. kuch log esse hote hain jo apko confuse kr dete hain
+  smjh hi nhi aata ki kyaa kahun mein unse .. 
+
+*/
+/*  
+  sometime i don't understand what should i do what not .. kuch log esse hote hain jo apko confuse kr dete hain
+  smjh hi nhi aata ki kyaa kahun mein unse .. 
+
+*/
+/*  
+  sometime i don't understand what should i do what not .. kuch log esse hote hain jo apko confuse kr dete hain
+  smjh hi nhi aata ki kyaa kahun mein unse .. 
+
+*/
+/*  
+  sometime i don't understand what should i do what not .. kuch log esse hote hain jo apko confuse kr dete hain
+  smjh hi nhi aata ki kyaa kahun mein unse .. 
+
+*/
+/*  
+  sometime i don't understand what should i do what not .. kuch log esse hote hain jo apko confuse kr dete hain
+  smjh hi nhi aata ki kyaa kahun mein unse .. 
+
+*/
 export default Navbar
