@@ -13,8 +13,17 @@ function App() {
     </>
   );
 }
-/* This is the app page where only routes navbar and footer component loaded   
+/* 
+This is the app page where only routes navbar and footer component loaded   
 */
+/* 
+This is the app page where only routes navbar and footer component loaded   
+*/
+
+/* 
+This is the app page where only routes navbar and footer component loaded   
+*/
+
 
 
 export default App;
