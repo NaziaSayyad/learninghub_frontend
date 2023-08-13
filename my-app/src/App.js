@@ -9,6 +9,7 @@ function App() {
         <Navbar />
         <AllRoutes />
         <Heading > Main page </Heading>
+        <Heading>  Main Page 2 </Heading>
     </>
   );
 }
