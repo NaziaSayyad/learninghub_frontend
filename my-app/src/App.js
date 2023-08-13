@@ -17,8 +17,8 @@ function App() {
 This is the app page where only routes navbar and footer component loaded   
 */
 /* 
-This is the app page where only routes navbar and footer component loaded   
-*/
+  what i am doing now a days, I don't know, what I want I dont know.. 
+  */
 
 /* 
 This is the app page where only routes navbar and footer component loaded   
