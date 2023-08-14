@@ -18,9 +18,11 @@ function Home() {
   return (
     <>
     <Headers />
+    
     <Body
           images={images} interval={interval}
-        />
+    />
+    <Heading>  My  slideshow page </Heading>
     
     </>
   )
