@@ -30,6 +30,22 @@ function Home() {
     <Heading>  My  Page  </Heading>
     <Heading>  My  slideshow page </Heading>
     <Heading>  My  Page  </Heading>
+    <Heading>  My  slideshow page </Heading>
+    <Heading>  My  Page  </Heading>
+    <Heading>  My  slideshow page </Heading>
+    <Heading>  My  Page  </Heading>
+    <Heading>  My  slideshow page </Heading>
+    <Heading>  My  Page  </Heading>
+    <Heading>  My  slideshow page </Heading>
+    <Heading>  My  Page  </Heading>
+    <Heading>  My  slideshow page </Heading>
+    <Heading>  My  Page  </Heading>
+    <Heading>  My  slideshow page </Heading>
+    <Heading>  My  Page  </Heading>
+    <Heading>  My  slideshow page </Heading>
+    <Heading>  My  Page  </Heading>
+    <Heading>  My  slideshow page </Heading>
+    <Heading>  My  Page  </Heading>
     
     </>
   )
