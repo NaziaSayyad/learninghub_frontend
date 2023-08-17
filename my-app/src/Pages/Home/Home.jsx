@@ -22,61 +22,6 @@ function Home() {
     <Body
           images={images} interval={interval}
     />
-    <Heading>  My  slideshow page </Heading>
-    <Heading>  My  Page  </Heading>
-    <Heading>  My  slideshow page </Heading>
-    <Heading>  My  Page  </Heading>
-    <Heading>  My  slideshow page </Heading>
-    <Heading>  My  Page  </Heading>
-    <Heading>  My  slideshow page </Heading>
-    <Heading>  My  Page  </Heading>
-    <Heading>  My  slideshow page </Heading>
-    <Heading>  My  Page  </Heading>
-    <Heading>  My  slideshow page </Heading>
-    <Heading>  My  Page  </Heading>
-    <Heading>  My  slideshow page </Heading>
-    <Heading>  My  Page  </Heading>
-    <Heading>  My  slideshow page </Heading>
-    <Heading>  My  Page  </Heading>
-    <Heading>  My  slideshow page </Heading>
-    <Heading>  My  Page  </Heading>
-    <Heading>  My  slideshow page </Heading>
-    <Heading>  My  Page  </Heading>
-    <Heading>  My  slideshow page </Heading>
-    <Heading>  My  Page  </Heading>
-    <Heading>  My  slideshow page </Heading>
-    <Heading>  My  Page  </Heading>
-    <Heading>  My  slideshow page </Heading>
-    <Heading>  My  Page  </Heading>
-    <Heading>  My  slideshow page </Heading>
-    <Heading>  My  Page  </Heading>
-    <Heading>  My  slideshow page </Heading>
-    <Heading>  My  Page  </Heading>
-    <Heading>  My  slideshow page </Heading>
-    <Heading>  My  Page  </Heading>
-    <Heading>  My  slideshow page </Heading>
-    <Heading>  My  Page  </Heading>
-    <Heading>  My  slideshow page </Heading>
-    <Heading>  My  Page  </Heading>
-    <Heading>  My  slideshow page </Heading>
-    <Heading>  My  Page  </Heading>
-    <Heading>  My  slideshow page </Heading>
-    <Heading>  My  Page  </Heading>
-    <Heading>  My  slideshow page </Heading>
-    <Heading>  My  Page  </Heading>
-    <Heading>  My  slideshow page </Heading>
-    <Heading>  My  Page  </Heading>
-    <Heading>  My  slideshow page </Heading>
-    <Heading>  My  Page  </Heading>
-    <Heading>  My  slideshow page </Heading>
-    <Heading>  My  Page  </Heading>
-    <Heading>  My  slideshow page </Heading>
-    <Heading>  My  Page  </Heading>
-    <Heading>  My  slideshow page </Heading>
-    <Heading>  My  Page  </Heading>
-    <Heading>  My  slideshow page </Heading>
-    <Heading>  My  Page  </Heading>
-    <Heading>  My  slideshow page </Heading>
     <Heading>  My  Page  </Heading>
   
     </>
