@@ -23,6 +23,11 @@ function Home() {
           images={images} interval={interval}
     />
     <Heading>  My  Page  </Heading>
+    <Heading>  My  Page  </Heading>
+    <Heading>  My  Page  </Heading>
+    <Heading>  My  Page  </Heading>
+    <Heading>  My  Page  </Heading>
+    <Heading>  My  Page  </Heading>
   
     </>
   )
