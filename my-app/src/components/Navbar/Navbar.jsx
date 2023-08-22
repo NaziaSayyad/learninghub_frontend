@@ -211,23 +211,5 @@ function Navbar() {
   smjh hi nhi aata ki kyaa kahun mein unse .. 
 
 */
-// https://fantastic-khapse-8389b2.netlify.app/https://fantastic-khapse-8389b2.netlify.app/
-// https://fantastic-khapse-8389b2.netlify.app/https://fantastic-khapse-8389b2.netlify.app/
-/*  https://fantastic-khapse-8389b2.netlify.app/https://fantastic-khapse-8389b2.netlify.app/https://fantastic-khapse-8389b2.netlify.app/
-https://fantastic-khapse-8389b2.netlify.app/
-https://fantastic-khapse-8389b2.netlify.app/
-https://fantastic-khapse-8389b2.netlify.app/
-https://fantastic-khapse-8389b2.netlify.app/
-https://fantastic-khapse-8389b2.netlify.app/
-https://fantastic-khapse-8389b2.netlify.app/
-https://fantastic-khapse-8389b2.netlify.app/
-https://fantastic-khapse-8389b2.netlify.app/
-https://fantastic-khapse-8389b2.netlify.app/
-https://fantastic-khapse-8389b2.netlify.app/
-https://fantastic-khapse-8389b2.netlify.app/
-https://fantastic-khapse-8389b2.netlify.app/
-https://fantastic-khapse-8389b2.netlify.app/
-https://fantastic-khapse-8389b2.netlify.app/
-https://fantastic-khapse-8389b2.netlify.app/
-*/
+
 export default Navbar
