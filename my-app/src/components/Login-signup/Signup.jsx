@@ -20,6 +20,19 @@ function Signup() {
     <Text> fzlk lzfdj lkjzd lkjfdz kjlzfd lkjfzd lkjfzdlkj lkjfz lkjfz lkjfdz lkjfdzl</Text>
     <Heading>  Projects </Heading>
     <Text> this is a project section </Text>
+    <Text>        hui huu    kj this kfskaj kj sa jkdsa jksahd kjads khsdalkdsaj kdsalk f sakjh dksh kjads 
+     </Text>
+     <Text> Technical skills </Text>
+    <Text>  Physics wallah </Text> 
+    <Text> Turmeric syphon</Text>
+    <Text> Can you provide a single bhjhjk fakj afjk afkj kj kjak sakj kjas jakjhkj 
+      akjaskj kjahjkja kjfafsak kjhfkaskk
+    </Text>
+    <Text> khkjhc kj  jkh   dfskj khds kjj kj khj k kj </Text>
+    <Text>  khsfkh khfs kj vkhzk kz kjzx kj kjzvc kjz kjz </Text>
+    <Text> fzlk lzfdj lkjzd lkjfdz kjlzfd lkjfzd lkjfzdlkj lkjfz lkjfz lkjfdz lkjfdzl</Text>
+    <Heading>  Projects </Heading>
+    <Text> this is a project section </Text>
     
    </>
 
