@@ -1,9 +1,16 @@
 import { Button, Heading, Image } from '@chakra-ui/react'
-import React from 'react'
+import React, { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom';
 import styles from "../styles/courses.module.css";
 
 function AllCourses() {
+  const [data,setdata] = useState("");
+
+  
+  useEffect(() =>{
+        // fetch the api of all the courses and set it to the main data
+
+  }, [] )
   return (
    <>
    <div  id={styles.courses}>
