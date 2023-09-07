@@ -117,25 +117,16 @@ function Signup() {
     <Text> this is a project section </Text>
     <Text> huu  uhuu sihu iusf iuh fisuh ihsf  uis ihfs </Text>
     <Heading>  Projects </Heading>
-    <Text> this is a project section </Text>
-    <Text> huu  uhuu sihu iusf iuh fisuh ihsf  uis ihfs </Text>
-    <Text> fzlk lzfdj lkjzd lkjfdz kjlzfd lkjfzd lkjfzdlkj lkjfz lkjfz lkjfdz lkjfdzl</Text>
-    <Heading>  Projects </Heading>
-    <Text> this is a project section </Text>
-    <Text> huu  uhuu sihu iusf iuh fisuh ihsf  uis ihfs </Text>
-    <Heading>  Projects </Heading>
-    <Text> this is a project section </Text>
-    <Text> huu  uhuu sihu iusf iuh fisuh ihsf  uis ihfs </Text>
-    <Text> fzlk lzfdj lkjzd lkjfdz kjlzfd lkjfzd lkjfzdlkj lkjfz lkjfz lkjfdz lkjfdzl</Text>
-    <Heading>  Projects </Heading>
-    <Text> this is a project section </Text>
-    <Text> huu  uhuu sihu iusf iuh fisuh ihsf  uis ihfs </Text>
 
    </>
 
   )
 }
-/*    
+/*
+  Signu[ kjad kjadk 
+   kfsj ]    
 */
-
+/*   hui khfsj fjdshjhsdf jjkhksf jhkdf kjhfs jhkfdsj jhkjh  hk khu */
+/* wordpress pr mene bna rkhi hai  fdsj kjdfdu jhfsu sdkj fs dskjfds fdj dsj dfkj siudf khfs fdfk d hkdsufs
+dfkh sdkhdsiu dskjds fjdsuisd   */ 
 export default Signup
