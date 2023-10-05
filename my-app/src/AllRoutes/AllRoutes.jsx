@@ -5,7 +5,7 @@ import Login from '../components/Login-signup/Login'
 import AllCourses from '../Pages/courses/Courses'
 
 import Computer from '../Pages/courses/Computer'
-import About from '../Pages/About/About'
+import About from '../Pages/About/About';
 import Contact from '../Pages/Contact/Contact'
 import Tajweed from '../Pages/courses/Tajweed'
 
@@ -13,11 +13,11 @@ import Tajweed from '../Pages/courses/Tajweed'
 function AllRoutes() {
   return (
     <>
-    
     <Routes> 
       <Route path='/' element={<Home />}>  </Route>
-      {/* <Route path='/signup' element={<Signup />}> </Route> */}
-      <Route path='/login' element={<Login />}></Route>
+      {/* <Ro
+      ute path='/signup' element={<Signup />}> </Ro> */}
+      14<Route path='/login' element={<Login />}></Route>
     <Route path='/courses' element={<AllCourses />}> </Route>
 
 <Route path='/computers' element={<Computer /> }></Route>
